@@ -1,5 +1,7 @@
 # TensorCode : Design Automation Conference System Design Competition 2023 GPU Track Project
 
+## Notice: All provided files are dummy placeholders.
+
 ## Table of Contents
 | Chapter|        Topic     |      Page    |
 |:------:|:----------------:|:-----:|
